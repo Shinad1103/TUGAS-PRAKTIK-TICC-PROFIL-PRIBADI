@@ -175,7 +175,7 @@
 </main> 
 
 <footer>
-  <p> Arshi Nada | Personal Webisite</p>
+  <p> 2026 Arshi Nada | Personal Webisite</p>
 <footer>
 
 </body>
