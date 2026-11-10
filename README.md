@@ -166,7 +166,7 @@
   <section class="card contact" id="kontak">
       <h2>Contact Me</h2>
       <p>Instagram : 
-          <a href="https://www.instagram.com/shinaada_?vrfl=enhlNWNrendwNW10" 
+          <a href="https://www.instagram.com/Shinaada_" 
           @Shinaada_ 
           </a> 
       </p>
